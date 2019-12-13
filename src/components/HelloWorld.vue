@@ -6,7 +6,7 @@
     >
       <v-flex mb-4>
         <h2>
-          Camera
+          Cameraをみて！
           <div id="webcam-container"></div>
         </h2>
       </v-flex>
