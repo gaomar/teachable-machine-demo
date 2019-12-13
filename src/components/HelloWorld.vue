@@ -28,7 +28,7 @@
 import * as tmImage from '@teachablemachine/image'
 
 let model, webcam, labelContainer, maxPredictions
-const URL = 'https://raw.githubusercontent.com/gaomar/teachable-machine-model-demo/master/'
+const URL = './my_model/' //'https://raw.githubusercontent.com/gaomar/teachable-machine-model-demo/master/'
 export default {
   name: 'HelloWorld',
   data () {
